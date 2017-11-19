@@ -48,12 +48,12 @@ a {
   background-color: dimgray;
 }
 
-.footer p {
-  font-size: 11px;
-  color: white;
+.footer p, nav{
   display: inline;
 }
 
-.footer nav {
+.footer p {
+  font-size: 11px;
+  color: white;
   display: inline;
 }
