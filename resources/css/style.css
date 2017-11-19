@@ -20,7 +20,40 @@ body {
   padding: 10px;
 }
 
-.header a {
+a {
   color: white;
   font-size: 18px
+}
+
+.part2 {
+  text-align: center;
+}
+
+#process {
+  text-align: center;
+}
+
+#process h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#work {
+  background: url('the-flatiron-building.png');
+  color: white;
+  font-weight: bold;
+}
+
+.footer {
+  background-color: dimgray;
+}
+
+.footer p {
+  font-size: 11px;
+  color: white;
+  display: inline;
+}
+
+.footer nav {
+  display: inline;
 }
